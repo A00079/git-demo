@@ -1,0 +1,3 @@
+[submodule "TodoappVuex"]
+	path = TodoappVuex
+	url = https://github.com/A00079/TodoappVuex.git
